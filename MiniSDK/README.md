@@ -199,7 +199,7 @@ This mini SDK contains two components: `AccountRegistration`, which is a form to
 
 #### Step 1: Download MiniSDK
 
-First, you need download the `mini-sdk-0.0.1.tgz` file from this repository.
+First, you need download the [`mini-sdk-0.0.1.tgz`](https://github.com/MadiiW/InteractionProgrammingLabs/blob/master/MiniSDK/mini-sdk-0.0.1.tgz) file from this repository.
 
 #### Step 2: Install with npm
 
